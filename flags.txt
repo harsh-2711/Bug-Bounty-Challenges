@@ -1,0 +1,14 @@
+
+
+ misc - piet = Flag{HTB{p137_m0ndr14n}} - 25/hard
+
+ misc - gist =  Flag{hex_for_all} - 15/medium 
+
+ misc - morse = Flag{}  - 10/Easy
+
+ 
+ crypto - old_is_gold = Flag{jumanji69} - 25/hard
+
+ crypto - ROTI = Flag{ROTI13} - 15/Medium
+
+ Crypto - Flag{Crypto_Kiddie}  - 10/Easy 
